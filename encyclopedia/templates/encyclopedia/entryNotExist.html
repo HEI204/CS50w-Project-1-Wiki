@@ -1,0 +1,13 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    {{ title }}
+{% endblock %}
+
+{% block body %}
+    <h1>{{ title }}.....?</h1>
+    <p> 
+        Sorry, it seems not exist yet.... But you can try to create you own entry if you like!<br>
+        <a href="{% url 'add_newpage' %}">Click here</a> to create this entry if you want!
+    </p>
+{% endblock %}
