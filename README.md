@@ -1,6 +1,6 @@
 # CS50w-Project-1-Wiki
 
-Details: https://cs50.harvard.edu/web/2020/projects/1/wiki/
+Details: https://cs50.harvard.edu/web/2020/projects/1/wiki/ <br>
 Demonstration: https://www.youtube.com/watch?v=Mnk29ESUjIM
 
 It is the project in the course called CS50’s Web Programming with Python and JavaScript. We need to design a Wikipedia-like online encyclopedia.
